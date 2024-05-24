@@ -1,4 +1,5 @@
-## Hi there 👋
+# Computational Structural Biology Lab 👋
+**Department of Biosciences, University of Milano, Italy**
 
 <!--
 
